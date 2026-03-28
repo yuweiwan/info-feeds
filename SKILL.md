@@ -3,7 +3,7 @@ name: feeds
 description: AI-driven information feed aggregator with smart categorization and entity extraction
 version: 2.0.0
 metadata:
-  author: 一泽Eze
+  author: Yuwei Wan
   license: MIT
 ---
 
