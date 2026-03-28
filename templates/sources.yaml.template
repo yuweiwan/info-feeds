@@ -1,0 +1,12 @@
+# 信息源配置
+# 查看可用信息源类型：/feeds refs sources-catalog
+
+sources:
+  # 从 references/sources-catalog.md 选择需要的源，参考格式如下：
+
+  # - name: my-source      # 自定义名称
+  #   type: hacker-news   # 信息源类型
+  #   enabled: true
+  #   config:
+  #     story_type: top
+  #     limit: 30

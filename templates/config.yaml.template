@@ -1,0 +1,11 @@
+# feeds skill 配置文件
+# 首次运行时由 /feeds setup 自动生成
+
+# 数据存储根目录（必填）
+data_dir: {{DATA_DIR}}
+
+# 抓取间隔（秒），用于 cron 参考
+fetch_interval: 3600
+
+# 保留历史记忆天数
+max_history_days: 30

@@ -1,0 +1,20 @@
+{
+  "name": "feeds-skill",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Information feed aggregation with AI-powered entity extraction",
+  "scripts": {
+    "feeds": "node scripts/cli.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "date-fns": "^4.1.0",
+    "node-fetch": "^3.3.2",
+    "rss-parser": "^3.13.0",
+    "xml2js": "^0.6.2",
+    "yaml": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
